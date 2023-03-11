@@ -1,4 +1,4 @@
-//This script let you teleport to a specific region and to specific coordinates inside a grid. Add this script to an object and use it as a HUD. 
+//This script let you teleport to a specific region and specific coordinates inside a grid. Add this script to an object and use it as a HUD. 
 //Made by Magnus Morgenstern Sacrarium Grid.
 
 string Destination = ""; 
